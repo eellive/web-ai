@@ -1,0 +1,8 @@
+{
+  "name": "Elements Emitting Light",
+  "description": "Ingeniería audiovisual y eventos de élite en Madrid. Soluciones inmersivas en luz, sonido e innovación tecnológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
